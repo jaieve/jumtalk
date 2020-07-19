@@ -1,6 +1,12 @@
 Chatting Program for Fortune Teller And User
 -------------------------------------------------
 
+<br>This program allows fortune-tellers and users to use services untact chat.<br>
+
+The screenshot has only two key features, not full features.<
+
+
+
 ScreenShot
 -------------------------------------------------
 ![메인화면](https://user-images.githubusercontent.com/58925978/87873660-54cfc480-c9fe-11ea-8e6f-2b0bfdd782a6.png)<br><br><br>
