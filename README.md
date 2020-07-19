@@ -3,7 +3,7 @@ Chatting Program for Fortune Teller And User
 
 <br>This program allows fortune-tellers and users to use services untact chat.<br>
 
-The screenshot has only two key features, not full features.<
+The screenshot has only two key features, not full features.
 
 
 
