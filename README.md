@@ -1,10 +1,23 @@
-Chatting Program for Fortune Teller And User
--------------------------------------------------
+<h2 align="center">점톡</h2>
+<p align="center">
+  🙍‍♂️  <strong>채팅앱</strong>   🙍‍♀️
+</p>
+<br>
 
-<br>This program allows fortune-tellers and users to use services untact chat.<br>
+### 개요
+* 개인사업자(점술가) 고객간의 예약시스템을 통한 1:1 채팅(비대면) 시스템을 이용해 원하는 서비스를 이용할 수 있도록 개발
+  
+### 공헌한 내용
+* 참여도: **50%**
+* 프로젝트 셋팅 및 관리, 플로우차트 작성, 데이터베이스 설계 및 구축, ER다이어그램 작성, 예약시스템 구축, 프로그램 전체 예외처리 및 에러페이지 구현
+* DB액션 처리: JDBC
+* 개발 Tool : Eclipse, SQLDeveloper
+<br>
 
-The screenshots are only a few important scenes, not all.<br><br>
+<hr>
 
+### 시연 이미지
+<br>
 
 
 ScreenShot
