@@ -20,9 +20,6 @@
 ### 시연 이미지
 <br>
 
-
-ScreenShot
--------------------------------------------------
 ![메인화면](https://user-images.githubusercontent.com/58925978/87873660-54cfc480-c9fe-11ea-8e6f-2b0bfdd782a6.png)<br><br><br>
 
 ![사용자예약화면](https://user-images.githubusercontent.com/58925978/87873662-5bf6d280-c9fe-11ea-88fc-c1cfd2297b8e.png)<br><br><br>
