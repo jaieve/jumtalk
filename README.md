@@ -1,6 +1,6 @@
 <h2 align="center">점톡</h2>
 <p align="center">
-  🙍‍♂️  <strong>채팅앱</strong>   🙍‍♀️
+  🙍‍♂️Korea IT Academy Project in 2020🙍‍♀️
 </p>
 <br>
 
