@@ -36,7 +36,7 @@
 
 ***
 
-### 시연 이미지
+### Image
 <br>
 
 ![메인화면](https://user-images.githubusercontent.com/58925978/87873660-54cfc480-c9fe-11ea-8e6f-2b0bfdd782a6.png)<br><br><br>
