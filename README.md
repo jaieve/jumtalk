@@ -14,7 +14,6 @@
 * DB액션 처리: JDBC
 * 화면 구성: Java Swing
 * 개발 Tool : Eclipse, SQLDeveloper
-<br>
 
 ### 팀원
 * 유의상 (devYoooo) :crown:(팀장)
