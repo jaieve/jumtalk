@@ -30,9 +30,9 @@
 ***
 
 ### To-do Project List
-* Jumtalk
-* ~OP_IT~
-* ~KOREABOX~
+* ~Jumtalk~
+* OP_IT
+* KOREABOX
 
 ***
 
